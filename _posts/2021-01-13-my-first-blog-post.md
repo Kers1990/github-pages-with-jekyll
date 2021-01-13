@@ -1,5 +1,5 @@
 ---
-title: Hello world!
+title: "Hello world"
 date: 2021-01-13
 ---
 
